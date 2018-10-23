@@ -34,7 +34,7 @@ const Buttons = () => {
       <Button roundNess="50px" txtColor="green" shadowOn>
         Green Text Button
       </Button>
-      <Button roundNess="50px" txtColor="white" bgColor="green" shadowOn>
+      <Button roundNess="50px" txtColor="black" bgColor="orangered" shadowOn>
         Green Text Button
       </Button>
     </div>
